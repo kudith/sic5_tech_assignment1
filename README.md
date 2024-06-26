@@ -17,10 +17,11 @@ Proyek ini adalah bagian dari Technical Assignment 1 untuk SIC Batch 5. Saya mem
 
 ## Screenshots
 
-- Foto Rangkaian Wokwi
-    ![Rangkaian ESP32](/images/foto_rangkaian.png)  
+- **Foto Rangkaian ESP32**
 
-- Hasil API
+  ![Rangkaian ESP32](/images/foto-rangkaian.png)
+
+- **Hasil API**
     ![API Result](/images//ss2.png)   
     ![API Result](/images//ss3.png)
 
